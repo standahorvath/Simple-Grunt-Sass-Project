@@ -4,7 +4,6 @@ This is simple grunt project for website development. It includes sass, browser 
 
 ## Install
 
-``
-npm install
-grunt
-``
+
+> npm install
+> grunt
